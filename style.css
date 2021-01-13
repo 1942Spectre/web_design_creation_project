@@ -120,7 +120,7 @@ a.act,a:hover{
 }
 h1{
     font-size: 45px;
-    color: #EDEBD7;
+    color: #E3DA89;
     font-weight: 10000;
 }
 .intro{
@@ -231,3 +231,24 @@ h5{
     max-width: 100px;
     max-height: 100px; 
 }
+.person1{
+
+    width: 20%;
+    height: 200px;
+    border:1px solid rgba(66,62,55,1);
+    margin-bottom: 5px;
+    color: #faf3d0;
+}
+.person2{
+    width: 100%;
+    height: 200px;
+    border:1px solid rgba(66,62,55,1);
+    background: rgba(66,62,55,0.5);
+    text-align: center;
+    color: #faf3d0;
+}
+
+.person2 h5{
+    color: #faf3d0 !important;
+}
+

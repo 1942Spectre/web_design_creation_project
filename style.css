@@ -41,9 +41,12 @@ nav ul li a{
     padding: 7px 13px;
     border-radius: 3px  ;
 }
-a.act,a:hover{
-    background: #292424;
+a.act{
+    background: #E3B23C;
     transition: .5s;
+}
+a:hover{
+	background-color: #E3B23C;
 }
 .boxbtn{
     color: white;
@@ -188,9 +191,15 @@ h5{
 .middle-textbox{
     background: rgba(163,148,148,0.3);
 }
+.middle-textbox:hover{
+	background-color: black;
+}
 
 .middle-textbox-2{
-    background: rgba(66,62,55,0.5);
+    background-color: rgba(66,62,55,0.5);
+}
+.middle-textbox-2:hover{
+	background-color: black
 }
 
 .middle-textbox-links{
@@ -251,4 +260,22 @@ h5{
 .person2 h5{
     color: #faf3d0 !important;
 }
+
+img{
+	width: 200px;
+	height: 200px;
+}
+
+.col-sm-6{
+	margin: 10px;
+}
+
+.row{
+	margin-bottom: 10px;
+}
+
+.image-text-div:hover{
+	background-color: #E3B23C; 
+}
+
 

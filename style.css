@@ -288,5 +288,30 @@ img{
 
     padding-right: 200px; /* 3 */
     padding-left:  200px; /* 3 */
-    
+}
 
+.ss{
+    padding: 20px;
+    background-color: transparent;
+    color: #FAF3DD;
+    float: right;
+}
+.ss.col-sm-4:hover{
+
+    background-color: #FFA69E;
+
+}
+
+.ss.wrapper{
+    background-color: rgba(250, 243, 221, 0.4);
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.ss:hover{
+    background-color: #B8F2E6;
+}
+.ss h1{
+    color:FFA69E;
+}

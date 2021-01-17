@@ -278,6 +278,7 @@ img{
 	background-color: #E3B23C; 
 }
 
+
 .widget-wrapper {
 
 
@@ -314,4 +315,25 @@ img{
 }
 .ss h1{
     color:FFA69E;
+}
+
+.imtext{
+    text-align: center;
+}
+
+.imtext:hover{
+    background-color: #74121D;
+    /*
+    Rosewood: #5E0B15; 
+    Red Violet Color Wheel: #90323D;
+    Cafe Noir: #4C2E05;
+    Blood Red: #621708;
+    Dark Red: #941B0C;
+    Persian Plum: #74121D
+    Dark Sienna: #580C1F;
+     */
+}
+.container-fluid.imtext{
+    padding: 1%;
+    margin: 3%;
 }
